@@ -1,6 +1,7 @@
 # Django-React Blog Project 🔥 </br>
 This project consits of backend in django and frontend in react.</br>😍 
 Here you can find screenshot Output of this project ,</br> I am not providing the link of this project because its not poosible to host django project on github pages.</br>
+
 Checkout Some Project Screenshots below 👇 </br>
 <h2>Home page:</h2></br>
 
