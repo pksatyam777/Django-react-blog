@@ -1,7 +1,7 @@
 # Django-React Blog Project 🔥 </br>
 This project consits of backend in django and frontend in react.</br>😍 
 Here you can find screenshot Output of this project ,</br> I am not providing the link of this project because its not poosible to host django project on github pages.
-
+Checkout Some Project Screenshots below 👇 </br>
 <h2>Home page:</h2></br>
 
 ![bloghomepage](https://user-images.githubusercontent.com/69614044/110985432-779a5900-8392-11eb-8a2e-722c29d834cc.PNG)
@@ -33,7 +33,7 @@ Here you can find screenshot Output of this project ,</br> I am not providing th
 
 Good News! 😃 I have Integrated Django-React on same host , so you dont have to run on paraller server.
 
-Instructions: poject will be avilable on http://localhost:8000/ only after running python manage.py runserver command.</br>
+Instructions: poject will be avialable on http://localhost:8000/ only after running python manage.py runserver command.</br>
 
 
 Database:
