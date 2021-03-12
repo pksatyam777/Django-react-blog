@@ -1,6 +1,7 @@
 Database:
-  - software: postgresql
-  - user: omz
+  - software: sqlite
+  - user:pksatyam777
+  - password:Pksatyam1@
   - name: myapp
  
 runnning banckend:
