@@ -31,6 +31,11 @@ Here you can find screenshot Output of this project ,</br> I am not providing th
 ![allpostcrud](https://user-images.githubusercontent.com/69614044/110985792-deb80d80-8392-11eb-814e-bbb5e4e94ade.PNG)
 
 
+Good News! 😃 I have Integrated Django-React on same host , so you dont have to run on paraller server.
+
+Instructions: poject will be avilable on http://localhost:8000/ only after running python manage.py runserver command.</br>
+
+
 Database:
   - software: sqlite
   - user:pksatyam777
