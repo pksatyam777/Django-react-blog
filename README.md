@@ -56,3 +56,4 @@ running frontend:
  - cd frontend
  - yarn install
  - yarn start
+  
