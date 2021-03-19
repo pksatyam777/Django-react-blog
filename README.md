@@ -12,7 +12,7 @@ Checkout Some Project Screenshots below 👇 </br>
 ![signuppagesblog](https://user-images.githubusercontent.com/69614044/110985529-900a7380-8392-11eb-8690-6c9c78596079.PNG)
 
 
-
+   
 <h2>Login Page:</h2></br>
 
 ![loginblog](https://user-images.githubusercontent.com/69614044/110985564-9bf63580-8392-11eb-9215-53c0b6f0f43f.PNG)
